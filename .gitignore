@@ -1,0 +1,18 @@
+# Compiled class files
+*.class
+
+# Generated program output
+report.txt
+
+# Downloaded dependency jars
+lib/
+*.jar
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
